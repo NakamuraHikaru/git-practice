@@ -20,3 +20,5 @@ $ git log
 $ git show XXXX
 
 $ git checkout XXXX
+$ git branch -b XXXX
+$ git push -u origin XXXX
