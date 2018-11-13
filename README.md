@@ -12,6 +12,11 @@ $ git push -u origin master
 
 $ git diff XXXX
 $ git add XXXX
-$ git commit -m "first commit"
+$ git status
+$ git diff --cached
+$ git commit -m "XXXX"
+
+$ git log
+$ git show XXXX
 
 $ git checkout XXXX
