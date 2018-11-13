@@ -55,7 +55,3 @@ $ git branch
 $ git branch XXXX
 $ git checkout XXXX
 ```
-また、`branch`コマンドに`-b`オプションを付けることで、作成と切り替えが同時になされる。
-```
-$ git branch -b XXXX
-```
