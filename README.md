@@ -1,6 +1,7 @@
 # this is README
-リポジトリ作成
-作業用ディレクトリ作成・移動
+リポジトリ作成  
+作業用ディレクトリ作成・移動  
+```
 echo "# hoge" >> README.md
 $ git init
 
@@ -21,3 +22,4 @@ $ git show XXXX
 
 $ git checkout XXXX
 $ git push -u origin XXXX
+```
