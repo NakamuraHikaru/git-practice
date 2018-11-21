@@ -20,7 +20,8 @@ $ git push -u origin master
 ```
 
 ## 作業した内容を確認してコミット
-`diff`コマンドで差分を確認、`add`でステージに上げ、`status`でローカルの変更を確認。`diff --cached`で反映される変更を確認。  
+`diff`コマンドで差分を確認、`add`でステージに上げ、`status`でローカルの変更を確認。`diff --cached`で反映される変更を確認。
+
 最後に`commit`でコメントを付けてコミットする。
 ```
 $ git diff XXXX
