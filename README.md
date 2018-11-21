@@ -1,3 +1,4 @@
+itakura
 # How to git command
 ## リポジトリ作成
 ## 作業用ディレクトリ作成・移動
